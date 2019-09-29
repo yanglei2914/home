@@ -12,7 +12,7 @@
 
 国家自然科学基金青年项目，“移动云计算下数据流应用的动态计算切分技术研究”，2016.01 - 2018.12
 
-中央高效科研业务经费，“移动边缘计算性能建模与优化”，2018.09 - 2020.08
+中央高校科研业务经费，“移动边缘计算性能建模与优化”，2018.09 - 2020.08
 
 CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
 
@@ -20,7 +20,7 @@ CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
 
 ### 发表论文
 
-#### Journal Articles
+#### 期刊论文
 
 1.	Lei Yang, Xi Yu, Jiannong Cao, Wengen Li, Yuqi Wang, Michal Szczecinski. A Novel Demand Dispatching Model for Autonomous On-Demand Services. IEEE Transactions on Services Computing. DOI：10.1109/TSC.2019.2941680
 2.	Lei Yang, Jiannong Cao, Zhenyu Wang, Weigang Wu. Network aware Mobile Edge Computation Partitioning in Multi-user Environments. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2018.2876535
@@ -50,7 +50,7 @@ CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
 26.	Lei Yang, Jiannong Cao. Computation Partitioning in Mobile Cloud Computing: A Survey. ZTE Communication. Volume 11, Issue 4, pp.8-17, 2013
 27.	Lei Yang, Lei Wei, Jian Ye, Hongzhou Shi. A Location Cloaking Framework and Algorithm for Continuous LBS Requests. Chinese Journal of Computer Engineer, Vol.37, No.9, 2011.
 
-#### Papers in Conference Proceedings 
+#### 会议论文
 
 1.	Lei Yang, Doudou Yang, Jiannong Cao, Yuvraj Sahni, Xiaohua Xu. QoS Guaranteed Resource Allocation for Multiple Virtual Machine Migration in Edge Clouds. IEEE International Conference on Edge Computing (IEEE EDGE 2019), July 8-13, 2019. Milan, Italy.
 2.	Lei Yang, Jiannong Cao, Zhenyu Wang, Weigang Wu. Network aware Multi-user Computation Partitioning in Mobile Edge Clouds. The 46th International Conference on Parallel Processing (IEEE ICPP 2017). August 14-17, 2017. Bristol, UK. 
@@ -64,6 +64,3 @@ CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
 10.	Weiping Zhu, Jiannong Cao, Yi Xu, Lei Yang, Junjun Kong. Fault-Tolerant RFID Reader Localization Based on Passive RFID Tags.  31st IEEE International Conference on Computer Communications (INFOCOM), March 25-30, 2012, Orlando, USA 
 11.	Chao Ma, Jiannong Cao, Lei Yang, Jun Ma, Tao Li, Junjun Kong. An Approach to Measuring User Relationship Based on Location Trail. 7th Joint Conference on Hormonious Human Man Evironment (HHME), 2011, Beijing, China
 12.	Lei Yang, Lei Wei, Hongzhou Shi, Q. Liu, D. Yang. Location cloaking algorithms based on regional characteristics. IEEE International Conference on Computer Science and Automation Engineering (CSAE'11), Shang Hai, China
-
-
-
