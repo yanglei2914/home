@@ -9,14 +9,18 @@
 ### 主持项目
 
 国家自然科学基金面上项目，“协作式边缘计算中网络感知的任务调度技术研究”，2020.01 - 2023.12
+
 国家自然科学基金青年项目，“移动云计算下数据流应用的动态计算切分技术研究”，2016.01 - 2018.12
+
 中央高效科研业务经费，“移动边缘计算性能建模与优化”，2018.09 - 2020.08
+
 CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
+
 华南理工大学人才引进启动经费，2016.03 - 2019.02 
 
 ### 发表论文
 
-#### 期刊论文
+#### Journal Articls
 
 1.	Lei Yang, Xi Yu, Jiannong Cao, Wengen Li, Yuqi Wang, Michal Szczecinski. A Novel Demand Dispatching Model for Autonomous On-Demand Services. IEEE Transactions on Services Computing. DOI：10.1109/TSC.2019.2941680
 2.	Lei Yang, Jiannong Cao, Zhenyu Wang, Weigang Wu. Network aware Mobile Edge Computation Partitioning in Multi-user Environments. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2018.2876535
