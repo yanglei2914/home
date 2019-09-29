@@ -20,7 +20,7 @@ CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
 
 ### 发表论文
 
-#### Journal Articls
+#### Journal Articles
 
 1.	Lei Yang, Xi Yu, Jiannong Cao, Wengen Li, Yuqi Wang, Michal Szczecinski. A Novel Demand Dispatching Model for Autonomous On-Demand Services. IEEE Transactions on Services Computing. DOI：10.1109/TSC.2019.2941680
 2.	Lei Yang, Jiannong Cao, Zhenyu Wang, Weigang Wu. Network aware Mobile Edge Computation Partitioning in Multi-user Environments. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2018.2876535
@@ -50,7 +50,7 @@ CCF-腾讯犀牛鸟创意基金，2016.09 - 2017.08
 26.	Lei Yang, Jiannong Cao. Computation Partitioning in Mobile Cloud Computing: A Survey. ZTE Communication. Volume 11, Issue 4, pp.8-17, 2013
 27.	Lei Yang, Lei Wei, Jian Ye, Hongzhou Shi. A Location Cloaking Framework and Algorithm for Continuous LBS Requests. Chinese Journal of Computer Engineer, Vol.37, No.9, 2011.
 
-#### Conference Proceedings 
+#### Papers in Conference Proceedings 
 
 1.	Lei Yang, Doudou Yang, Jiannong Cao, Yuvraj Sahni, Xiaohua Xu. QoS Guaranteed Resource Allocation for Multiple Virtual Machine Migration in Edge Clouds. IEEE International Conference on Edge Computing (IEEE EDGE 2019), July 8-13, 2019. Milan, Italy.
 2.	Lei Yang, Jiannong Cao, Zhenyu Wang, Weigang Wu. Network aware Multi-user Computation Partitioning in Mobile Edge Clouds. The 46th International Conference on Parallel Processing (IEEE ICPP 2017). August 14-17, 2017. Bristol, UK. 
